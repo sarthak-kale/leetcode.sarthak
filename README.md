@@ -17,4 +17,8 @@
 |  |
 | ------- |
 | [3731-find-missing-elements](https://github.com/sarthak-kale/leetcode.sarthak/tree/master/3731-find-missing-elements) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/sarthak-kale/leetcode.sarthak/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->

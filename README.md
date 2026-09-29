@@ -21,4 +21,20 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/sarthak-kale/leetcode.sarthak/tree/master/0009-palindrome-number) |
+## Stack
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/sarthak-kale/leetcode.sarthak/tree/master/0144-binary-tree-preorder-traversal) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/sarthak-kale/leetcode.sarthak/tree/master/0144-binary-tree-preorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/sarthak-kale/leetcode.sarthak/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/sarthak-kale/leetcode.sarthak/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->

@@ -45,6 +45,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/sarthak-kale/leetcode.sarthak/tree/master/0023-merge-k-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/sarthak-kale/leetcode.sarthak/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/sarthak-kale/leetcode.sarthak/tree/master/0237-delete-node-in-a-linked-list) |
 ## Recursion
@@ -63,6 +64,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sarthak-kale/leetcode.sarthak/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/sarthak-kale/leetcode.sarthak/tree/master/0023-merge-k-sorted-lists) |
 | [0218-the-skyline-problem](https://github.com/sarthak-kale/leetcode.sarthak/tree/master/0218-the-skyline-problem) |
 ## Binary Indexed Tree
 |  |
@@ -79,9 +81,18 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/sarthak-kale/leetcode.sarthak/tree/master/0023-merge-k-sorted-lists) |
 | [0218-the-skyline-problem](https://github.com/sarthak-kale/leetcode.sarthak/tree/master/0218-the-skyline-problem) |
 ## Ordered Set
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/sarthak-kale/leetcode.sarthak/tree/master/0218-the-skyline-problem) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/sarthak-kale/leetcode.sarthak/tree/master/0023-merge-k-sorted-lists) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/sarthak-kale/leetcode.sarthak/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->

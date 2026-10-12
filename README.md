@@ -7,6 +7,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sarthak-kale/leetcode.sarthak/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/sarthak-kale/leetcode.sarthak/tree/master/0004-median-of-two-sorted-arrays) |
 | [0189-rotate-array](https://github.com/sarthak-kale/leetcode.sarthak/tree/master/0189-rotate-array) |
 | [3731-find-missing-elements](https://github.com/sarthak-kale/leetcode.sarthak/tree/master/3731-find-missing-elements) |
 ## Hash Table
@@ -52,4 +53,12 @@
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/sarthak-kale/leetcode.sarthak/tree/master/0189-rotate-array) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/sarthak-kale/leetcode.sarthak/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/sarthak-kale/leetcode.sarthak/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->

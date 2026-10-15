@@ -8,6 +8,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/sarthak-kale/leetcode.sarthak/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/sarthak-kale/leetcode.sarthak/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/sarthak-kale/leetcode.sarthak/tree/master/0011-container-with-most-water) |
 | [0189-rotate-array](https://github.com/sarthak-kale/leetcode.sarthak/tree/master/0189-rotate-array) |
 | [0218-the-skyline-problem](https://github.com/sarthak-kale/leetcode.sarthak/tree/master/0218-the-skyline-problem) |
 | [3731-find-missing-elements](https://github.com/sarthak-kale/leetcode.sarthak/tree/master/3731-find-missing-elements) |
@@ -57,6 +58,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/sarthak-kale/leetcode.sarthak/tree/master/0011-container-with-most-water) |
 | [0189-rotate-array](https://github.com/sarthak-kale/leetcode.sarthak/tree/master/0189-rotate-array) |
 ## Binary Search
 |  |
@@ -101,4 +103,8 @@
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/sarthak-kale/leetcode.sarthak/tree/master/0102-binary-tree-level-order-traversal) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/sarthak-kale/leetcode.sarthak/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->

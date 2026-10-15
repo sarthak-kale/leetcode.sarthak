@@ -5,13 +5,11 @@ int left = 0;
 int right = height.length - 1;
     while (left < right) {
         int width = right - left;
-
-        int cheight = Math.min(height[left], height[right]);
-
-        int area = width * cheight;
-
-        maxwater = Math.max(maxwater, area);
-
+        int h = Math.min(height[left], height[right]);
+        int area = width * h;
+        if (area > maxwater) {
+            maxwater = area;
+        }
         if (height[left] < height[right]) {
             left++;
         } else {
@@ -22,4 +20,3 @@ int right = height.length - 1;
     return maxwater;
 }
 }
-

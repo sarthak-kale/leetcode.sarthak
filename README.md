@@ -12,6 +12,7 @@
 | [0134-gas-station](https://github.com/sarthak-kale/leetcode.sarthak/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/sarthak-kale/leetcode.sarthak/tree/master/0135-candy) |
 | [0140-word-break-ii](https://github.com/sarthak-kale/leetcode.sarthak/tree/master/0140-word-break-ii) |
+| [0149-max-points-on-a-line](https://github.com/sarthak-kale/leetcode.sarthak/tree/master/0149-max-points-on-a-line) |
 | [0179-largest-number](https://github.com/sarthak-kale/leetcode.sarthak/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/sarthak-kale/leetcode.sarthak/tree/master/0189-rotate-array) |
 | [0218-the-skyline-problem](https://github.com/sarthak-kale/leetcode.sarthak/tree/master/0218-the-skyline-problem) |
@@ -23,6 +24,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/sarthak-kale/leetcode.sarthak/tree/master/0001-two-sum) |
 | [0140-word-break-ii](https://github.com/sarthak-kale/leetcode.sarthak/tree/master/0140-word-break-ii) |
+| [0149-max-points-on-a-line](https://github.com/sarthak-kale/leetcode.sarthak/tree/master/0149-max-points-on-a-line) |
 | [3731-find-missing-elements](https://github.com/sarthak-kale/leetcode.sarthak/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
@@ -35,6 +37,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/sarthak-kale/leetcode.sarthak/tree/master/0009-palindrome-number) |
+| [0149-max-points-on-a-line](https://github.com/sarthak-kale/leetcode.sarthak/tree/master/0149-max-points-on-a-line) |
 | [0189-rotate-array](https://github.com/sarthak-kale/leetcode.sarthak/tree/master/0189-rotate-array) |
 ## Stack
 |  |
@@ -165,4 +168,16 @@
 |  |
 | ------- |
 | [0818-race-car](https://github.com/sarthak-kale/leetcode.sarthak/tree/master/0818-race-car) |
+## Geometry
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/sarthak-kale/leetcode.sarthak/tree/master/0149-max-points-on-a-line) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/sarthak-kale/leetcode.sarthak/tree/master/0149-max-points-on-a-line) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/sarthak-kale/leetcode.sarthak/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->

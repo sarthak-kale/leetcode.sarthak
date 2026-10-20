@@ -14,6 +14,7 @@
 | [0179-largest-number](https://github.com/sarthak-kale/leetcode.sarthak/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/sarthak-kale/leetcode.sarthak/tree/master/0189-rotate-array) |
 | [0218-the-skyline-problem](https://github.com/sarthak-kale/leetcode.sarthak/tree/master/0218-the-skyline-problem) |
+| [0857-minimum-cost-to-hire-k-workers](https://github.com/sarthak-kale/leetcode.sarthak/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [3731-find-missing-elements](https://github.com/sarthak-kale/leetcode.sarthak/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
@@ -25,6 +26,7 @@
 | ------- |
 | [0179-largest-number](https://github.com/sarthak-kale/leetcode.sarthak/tree/master/0179-largest-number) |
 | [0218-the-skyline-problem](https://github.com/sarthak-kale/leetcode.sarthak/tree/master/0218-the-skyline-problem) |
+| [0857-minimum-cost-to-hire-k-workers](https://github.com/sarthak-kale/leetcode.sarthak/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [3731-find-missing-elements](https://github.com/sarthak-kale/leetcode.sarthak/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
@@ -91,6 +93,7 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/sarthak-kale/leetcode.sarthak/tree/master/0023-merge-k-sorted-lists) |
 | [0218-the-skyline-problem](https://github.com/sarthak-kale/leetcode.sarthak/tree/master/0218-the-skyline-problem) |
+| [0857-minimum-cost-to-hire-k-workers](https://github.com/sarthak-kale/leetcode.sarthak/tree/master/0857-minimum-cost-to-hire-k-workers) |
 ## Ordered Set
 |  |
 | ------- |
@@ -114,6 +117,7 @@
 | [0134-gas-station](https://github.com/sarthak-kale/leetcode.sarthak/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/sarthak-kale/leetcode.sarthak/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/sarthak-kale/leetcode.sarthak/tree/master/0179-largest-number) |
+| [0857-minimum-cost-to-hire-k-workers](https://github.com/sarthak-kale/leetcode.sarthak/tree/master/0857-minimum-cost-to-hire-k-workers) |
 ## String
 |  |
 | ------- |

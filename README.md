@@ -11,6 +11,7 @@
 | [0011-container-with-most-water](https://github.com/sarthak-kale/leetcode.sarthak/tree/master/0011-container-with-most-water) |
 | [0134-gas-station](https://github.com/sarthak-kale/leetcode.sarthak/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/sarthak-kale/leetcode.sarthak/tree/master/0135-candy) |
+| [0140-word-break-ii](https://github.com/sarthak-kale/leetcode.sarthak/tree/master/0140-word-break-ii) |
 | [0179-largest-number](https://github.com/sarthak-kale/leetcode.sarthak/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/sarthak-kale/leetcode.sarthak/tree/master/0189-rotate-array) |
 | [0218-the-skyline-problem](https://github.com/sarthak-kale/leetcode.sarthak/tree/master/0218-the-skyline-problem) |
@@ -21,6 +22,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sarthak-kale/leetcode.sarthak/tree/master/0001-two-sum) |
+| [0140-word-break-ii](https://github.com/sarthak-kale/leetcode.sarthak/tree/master/0140-word-break-ii) |
 | [3731-find-missing-elements](https://github.com/sarthak-kale/leetcode.sarthak/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
@@ -127,15 +129,29 @@
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/sarthak-kale/leetcode.sarthak/tree/master/0032-longest-valid-parentheses) |
 | [0072-edit-distance](https://github.com/sarthak-kale/leetcode.sarthak/tree/master/0072-edit-distance) |
+| [0140-word-break-ii](https://github.com/sarthak-kale/leetcode.sarthak/tree/master/0140-word-break-ii) |
 | [0179-largest-number](https://github.com/sarthak-kale/leetcode.sarthak/tree/master/0179-largest-number) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/sarthak-kale/leetcode.sarthak/tree/master/0032-longest-valid-parentheses) |
 | [0072-edit-distance](https://github.com/sarthak-kale/leetcode.sarthak/tree/master/0072-edit-distance) |
+| [0140-word-break-ii](https://github.com/sarthak-kale/leetcode.sarthak/tree/master/0140-word-break-ii) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/sarthak-kale/leetcode.sarthak/tree/master/0871-minimum-number-of-refueling-stops) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/sarthak-kale/leetcode.sarthak/tree/master/0032-longest-valid-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0140-word-break-ii](https://github.com/sarthak-kale/leetcode.sarthak/tree/master/0140-word-break-ii) |
+## Trie
+|  |
+| ------- |
+| [0140-word-break-ii](https://github.com/sarthak-kale/leetcode.sarthak/tree/master/0140-word-break-ii) |
+## Memoization
+|  |
+| ------- |
+| [0140-word-break-ii](https://github.com/sarthak-kale/leetcode.sarthak/tree/master/0140-word-break-ii) |
 <!---LeetCode Topics End-->

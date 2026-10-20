@@ -10,6 +10,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/sarthak-kale/leetcode.sarthak/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/sarthak-kale/leetcode.sarthak/tree/master/0011-container-with-most-water) |
 | [0134-gas-station](https://github.com/sarthak-kale/leetcode.sarthak/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/sarthak-kale/leetcode.sarthak/tree/master/0135-candy) |
 | [0189-rotate-array](https://github.com/sarthak-kale/leetcode.sarthak/tree/master/0189-rotate-array) |
 | [0218-the-skyline-problem](https://github.com/sarthak-kale/leetcode.sarthak/tree/master/0218-the-skyline-problem) |
 | [3731-find-missing-elements](https://github.com/sarthak-kale/leetcode.sarthak/tree/master/3731-find-missing-elements) |
@@ -109,4 +110,5 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/sarthak-kale/leetcode.sarthak/tree/master/0011-container-with-most-water) |
 | [0134-gas-station](https://github.com/sarthak-kale/leetcode.sarthak/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/sarthak-kale/leetcode.sarthak/tree/master/0135-candy) |
 <!---LeetCode Topics End-->

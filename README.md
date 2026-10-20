@@ -15,6 +15,7 @@
 | [0189-rotate-array](https://github.com/sarthak-kale/leetcode.sarthak/tree/master/0189-rotate-array) |
 | [0218-the-skyline-problem](https://github.com/sarthak-kale/leetcode.sarthak/tree/master/0218-the-skyline-problem) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/sarthak-kale/leetcode.sarthak/tree/master/0857-minimum-cost-to-hire-k-workers) |
+| [0871-minimum-number-of-refueling-stops](https://github.com/sarthak-kale/leetcode.sarthak/tree/master/0871-minimum-number-of-refueling-stops) |
 | [3731-find-missing-elements](https://github.com/sarthak-kale/leetcode.sarthak/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
@@ -94,6 +95,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/sarthak-kale/leetcode.sarthak/tree/master/0023-merge-k-sorted-lists) |
 | [0218-the-skyline-problem](https://github.com/sarthak-kale/leetcode.sarthak/tree/master/0218-the-skyline-problem) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/sarthak-kale/leetcode.sarthak/tree/master/0857-minimum-cost-to-hire-k-workers) |
+| [0871-minimum-number-of-refueling-stops](https://github.com/sarthak-kale/leetcode.sarthak/tree/master/0871-minimum-number-of-refueling-stops) |
 ## Ordered Set
 |  |
 | ------- |
@@ -118,8 +120,13 @@
 | [0135-candy](https://github.com/sarthak-kale/leetcode.sarthak/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/sarthak-kale/leetcode.sarthak/tree/master/0179-largest-number) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/sarthak-kale/leetcode.sarthak/tree/master/0857-minimum-cost-to-hire-k-workers) |
+| [0871-minimum-number-of-refueling-stops](https://github.com/sarthak-kale/leetcode.sarthak/tree/master/0871-minimum-number-of-refueling-stops) |
 ## String
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/sarthak-kale/leetcode.sarthak/tree/master/0179-largest-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0871-minimum-number-of-refueling-stops](https://github.com/sarthak-kale/leetcode.sarthak/tree/master/0871-minimum-number-of-refueling-stops) |
 <!---LeetCode Topics End-->

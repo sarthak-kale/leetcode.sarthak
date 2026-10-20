@@ -137,6 +137,7 @@
 | [0032-longest-valid-parentheses](https://github.com/sarthak-kale/leetcode.sarthak/tree/master/0032-longest-valid-parentheses) |
 | [0072-edit-distance](https://github.com/sarthak-kale/leetcode.sarthak/tree/master/0072-edit-distance) |
 | [0140-word-break-ii](https://github.com/sarthak-kale/leetcode.sarthak/tree/master/0140-word-break-ii) |
+| [0818-race-car](https://github.com/sarthak-kale/leetcode.sarthak/tree/master/0818-race-car) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/sarthak-kale/leetcode.sarthak/tree/master/0871-minimum-number-of-refueling-stops) |
 ## Bracket Sequences
 |  |
@@ -154,4 +155,12 @@
 |  |
 | ------- |
 | [0140-word-break-ii](https://github.com/sarthak-kale/leetcode.sarthak/tree/master/0140-word-break-ii) |
+## Heuristic Search
+|  |
+| ------- |
+| [0818-race-car](https://github.com/sarthak-kale/leetcode.sarthak/tree/master/0818-race-car) |
+## A* Search
+|  |
+| ------- |
+| [0818-race-car](https://github.com/sarthak-kale/leetcode.sarthak/tree/master/0818-race-car) |
 <!---LeetCode Topics End-->

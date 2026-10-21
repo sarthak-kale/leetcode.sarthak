@@ -48,15 +48,18 @@
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/sarthak-kale/leetcode.sarthak/tree/master/0102-binary-tree-level-order-traversal) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/sarthak-kale/leetcode.sarthak/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sarthak-kale/leetcode.sarthak/tree/master/0144-binary-tree-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/sarthak-kale/leetcode.sarthak/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sarthak-kale/leetcode.sarthak/tree/master/0144-binary-tree-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/sarthak-kale/leetcode.sarthak/tree/master/0102-binary-tree-level-order-traversal) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/sarthak-kale/leetcode.sarthak/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sarthak-kale/leetcode.sarthak/tree/master/0144-binary-tree-preorder-traversal) |
 ## Linked List
 |  |
@@ -141,6 +144,7 @@
 | [0032-longest-valid-parentheses](https://github.com/sarthak-kale/leetcode.sarthak/tree/master/0032-longest-valid-parentheses) |
 | [0072-edit-distance](https://github.com/sarthak-kale/leetcode.sarthak/tree/master/0072-edit-distance) |
 | [0087-scramble-string](https://github.com/sarthak-kale/leetcode.sarthak/tree/master/0087-scramble-string) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/sarthak-kale/leetcode.sarthak/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0140-word-break-ii](https://github.com/sarthak-kale/leetcode.sarthak/tree/master/0140-word-break-ii) |
 | [0818-race-car](https://github.com/sarthak-kale/leetcode.sarthak/tree/master/0818-race-car) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/sarthak-kale/leetcode.sarthak/tree/master/0871-minimum-number-of-refueling-stops) |
@@ -180,4 +184,8 @@
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/sarthak-kale/leetcode.sarthak/tree/master/0149-max-points-on-a-line) |
+## DP on Trees
+|  |
+| ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/sarthak-kale/leetcode.sarthak/tree/master/0124-binary-tree-maximum-path-sum) |
 <!---LeetCode Topics End-->

@@ -15,6 +15,7 @@
 | [0149-max-points-on-a-line](https://github.com/sarthak-kale/leetcode.sarthak/tree/master/0149-max-points-on-a-line) |
 | [0179-largest-number](https://github.com/sarthak-kale/leetcode.sarthak/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/sarthak-kale/leetcode.sarthak/tree/master/0189-rotate-array) |
+| [0212-word-search-ii](https://github.com/sarthak-kale/leetcode.sarthak/tree/master/0212-word-search-ii) |
 | [0218-the-skyline-problem](https://github.com/sarthak-kale/leetcode.sarthak/tree/master/0218-the-skyline-problem) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/sarthak-kale/leetcode.sarthak/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/sarthak-kale/leetcode.sarthak/tree/master/0871-minimum-number-of-refueling-stops) |
@@ -141,6 +142,7 @@
 | [0126-word-ladder-ii](https://github.com/sarthak-kale/leetcode.sarthak/tree/master/0126-word-ladder-ii) |
 | [0140-word-break-ii](https://github.com/sarthak-kale/leetcode.sarthak/tree/master/0140-word-break-ii) |
 | [0179-largest-number](https://github.com/sarthak-kale/leetcode.sarthak/tree/master/0179-largest-number) |
+| [0212-word-search-ii](https://github.com/sarthak-kale/leetcode.sarthak/tree/master/0212-word-search-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -161,10 +163,12 @@
 | [0052-n-queens-ii](https://github.com/sarthak-kale/leetcode.sarthak/tree/master/0052-n-queens-ii) |
 | [0126-word-ladder-ii](https://github.com/sarthak-kale/leetcode.sarthak/tree/master/0126-word-ladder-ii) |
 | [0140-word-break-ii](https://github.com/sarthak-kale/leetcode.sarthak/tree/master/0140-word-break-ii) |
+| [0212-word-search-ii](https://github.com/sarthak-kale/leetcode.sarthak/tree/master/0212-word-search-ii) |
 ## Trie
 |  |
 | ------- |
 | [0140-word-break-ii](https://github.com/sarthak-kale/leetcode.sarthak/tree/master/0140-word-break-ii) |
+| [0212-word-search-ii](https://github.com/sarthak-kale/leetcode.sarthak/tree/master/0212-word-search-ii) |
 ## Memoization
 |  |
 | ------- |
@@ -201,4 +205,8 @@
 |  |
 | ------- |
 | [0126-word-ladder-ii](https://github.com/sarthak-kale/leetcode.sarthak/tree/master/0126-word-ladder-ii) |
+## Matrix
+|  |
+| ------- |
+| [0212-word-search-ii](https://github.com/sarthak-kale/leetcode.sarthak/tree/master/0212-word-search-ii) |
 <!---LeetCode Topics End-->

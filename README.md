@@ -23,6 +23,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sarthak-kale/leetcode.sarthak/tree/master/0001-two-sum) |
+| [0126-word-ladder-ii](https://github.com/sarthak-kale/leetcode.sarthak/tree/master/0126-word-ladder-ii) |
 | [0140-word-break-ii](https://github.com/sarthak-kale/leetcode.sarthak/tree/master/0140-word-break-ii) |
 | [0149-max-points-on-a-line](https://github.com/sarthak-kale/leetcode.sarthak/tree/master/0149-max-points-on-a-line) |
 | [3731-find-missing-elements](https://github.com/sarthak-kale/leetcode.sarthak/tree/master/3731-find-missing-elements) |
@@ -121,6 +122,7 @@
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/sarthak-kale/leetcode.sarthak/tree/master/0102-binary-tree-level-order-traversal) |
+| [0126-word-ladder-ii](https://github.com/sarthak-kale/leetcode.sarthak/tree/master/0126-word-ladder-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -136,6 +138,7 @@
 | [0032-longest-valid-parentheses](https://github.com/sarthak-kale/leetcode.sarthak/tree/master/0032-longest-valid-parentheses) |
 | [0072-edit-distance](https://github.com/sarthak-kale/leetcode.sarthak/tree/master/0072-edit-distance) |
 | [0087-scramble-string](https://github.com/sarthak-kale/leetcode.sarthak/tree/master/0087-scramble-string) |
+| [0126-word-ladder-ii](https://github.com/sarthak-kale/leetcode.sarthak/tree/master/0126-word-ladder-ii) |
 | [0140-word-break-ii](https://github.com/sarthak-kale/leetcode.sarthak/tree/master/0140-word-break-ii) |
 | [0179-largest-number](https://github.com/sarthak-kale/leetcode.sarthak/tree/master/0179-largest-number) |
 ## Dynamic Programming
@@ -156,6 +159,7 @@
 |  |
 | ------- |
 | [0052-n-queens-ii](https://github.com/sarthak-kale/leetcode.sarthak/tree/master/0052-n-queens-ii) |
+| [0126-word-ladder-ii](https://github.com/sarthak-kale/leetcode.sarthak/tree/master/0126-word-ladder-ii) |
 | [0140-word-break-ii](https://github.com/sarthak-kale/leetcode.sarthak/tree/master/0140-word-break-ii) |
 ## Trie
 |  |
@@ -193,4 +197,8 @@
 |  |
 | ------- |
 | [0052-n-queens-ii](https://github.com/sarthak-kale/leetcode.sarthak/tree/master/0052-n-queens-ii) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0126-word-ladder-ii](https://github.com/sarthak-kale/leetcode.sarthak/tree/master/0126-word-ladder-ii) |
 <!---LeetCode Topics End-->

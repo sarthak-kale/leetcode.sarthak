@@ -19,6 +19,7 @@
 | [0218-the-skyline-problem](https://github.com/sarthak-kale/leetcode.sarthak/tree/master/0218-the-skyline-problem) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/sarthak-kale/leetcode.sarthak/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/sarthak-kale/leetcode.sarthak/tree/master/0871-minimum-number-of-refueling-stops) |
+| [1732-find-the-highest-altitude](https://github.com/sarthak-kale/leetcode.sarthak/tree/master/1732-find-the-highest-altitude) |
 | [3731-find-missing-elements](https://github.com/sarthak-kale/leetcode.sarthak/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
@@ -209,4 +210,8 @@
 |  |
 | ------- |
 | [0212-word-search-ii](https://github.com/sarthak-kale/leetcode.sarthak/tree/master/0212-word-search-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1732-find-the-highest-altitude](https://github.com/sarthak-kale/leetcode.sarthak/tree/master/1732-find-the-highest-altitude) |
 <!---LeetCode Topics End-->

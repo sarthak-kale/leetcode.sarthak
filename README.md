@@ -155,6 +155,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0052-n-queens-ii](https://github.com/sarthak-kale/leetcode.sarthak/tree/master/0052-n-queens-ii) |
 | [0140-word-break-ii](https://github.com/sarthak-kale/leetcode.sarthak/tree/master/0140-word-break-ii) |
 ## Trie
 |  |
@@ -188,4 +189,8 @@
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sarthak-kale/leetcode.sarthak/tree/master/0124-binary-tree-maximum-path-sum) |
+## Algorithm X
+|  |
+| ------- |
+| [0052-n-queens-ii](https://github.com/sarthak-kale/leetcode.sarthak/tree/master/0052-n-queens-ii) |
 <!---LeetCode Topics End-->

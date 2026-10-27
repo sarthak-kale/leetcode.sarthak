@@ -9,6 +9,7 @@
 | [0001-two-sum](https://github.com/sarthak-kale/leetcode.sarthak/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/sarthak-kale/leetcode.sarthak/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/sarthak-kale/leetcode.sarthak/tree/master/0011-container-with-most-water) |
+| [0075-sort-colors](https://github.com/sarthak-kale/leetcode.sarthak/tree/master/0075-sort-colors) |
 | [0134-gas-station](https://github.com/sarthak-kale/leetcode.sarthak/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/sarthak-kale/leetcode.sarthak/tree/master/0135-candy) |
 | [0140-word-break-ii](https://github.com/sarthak-kale/leetcode.sarthak/tree/master/0140-word-break-ii) |
@@ -32,6 +33,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/sarthak-kale/leetcode.sarthak/tree/master/0075-sort-colors) |
 | [0179-largest-number](https://github.com/sarthak-kale/leetcode.sarthak/tree/master/0179-largest-number) |
 | [0218-the-skyline-problem](https://github.com/sarthak-kale/leetcode.sarthak/tree/master/0218-the-skyline-problem) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/sarthak-kale/leetcode.sarthak/tree/master/0857-minimum-cost-to-hire-k-workers) |
@@ -78,6 +80,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/sarthak-kale/leetcode.sarthak/tree/master/0011-container-with-most-water) |
+| [0075-sort-colors](https://github.com/sarthak-kale/leetcode.sarthak/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/sarthak-kale/leetcode.sarthak/tree/master/0189-rotate-array) |
 ## Binary Search
 |  |
@@ -214,4 +217,12 @@
 |  |
 | ------- |
 | [1732-find-the-highest-altitude](https://github.com/sarthak-kale/leetcode.sarthak/tree/master/1732-find-the-highest-altitude) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/sarthak-kale/leetcode.sarthak/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/sarthak-kale/leetcode.sarthak/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
